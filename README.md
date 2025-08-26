@@ -4,7 +4,7 @@ A web-based implementation of the classic Simon memory game built with HTML, CSS
 
 ## 🔗 Live Demo
 
-Play the game live: [Simon Game](https://vercel.com/avinashs-projects-da1d0acf/simon-game/HNtCUgq1KQuyx9NaG84Ec3m1Goss)
+Play the game live: [Simon Game](https://simon-game-lime-seven.vercel.app/)
 
 ---
 
