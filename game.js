@@ -64,6 +64,8 @@ function checkAnswer(currentIndex) {
       setTimeout(function() {
         nextSequence();
       }, 1000);
+      level++;
+      $("h1").text("Level " + level);
     }
   } else {
     // Wrong click
